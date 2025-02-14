@@ -1,0 +1,10 @@
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\obj\Debug\GeometryLibConsole.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\obj\Debug\GeometryLibConsole.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\bin\Debug\GeometryLibConsole.exe.config
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\bin\Debug\GeometryLibConsole.exe
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\bin\Debug\GeometryLibConsole.pdb
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\bin\Debug\GeometryLib.dll
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\bin\Debug\GeometryLib.pdb
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\obj\Debug\GeometryLibConsole.csproj.CopyComplete
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\obj\Debug\GeometryLibConsole.exe
+C:\Users\Klaudy\Desktop\VS\GeometryLibConsole\obj\Debug\GeometryLibConsole.pdb
