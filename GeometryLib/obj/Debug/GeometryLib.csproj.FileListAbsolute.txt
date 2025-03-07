@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 C:\Users\Klaudy\Desktop\пр4\GeometryLib\bin\Debug\GeometryLib.dll
 C:\Users\Klaudy\Desktop\пр4\GeometryLib\bin\Debug\GeometryLib.pdb
 C:\Users\Klaudy\Desktop\пр4\GeometryLib\obj\Debug\GeometryLib.csproj.CoreCompileInputs.cache
 C:\Users\Klaudy\Desktop\пр4\GeometryLib\obj\Debug\GeometryLib.dll
 C:\Users\Klaudy\Desktop\пр4\GeometryLib\obj\Debug\GeometryLib.pdb
+=======
+C:\Users\Klaudy\source\repos\GeometryLib\bin\Debug\GeometryLib.dll
+C:\Users\Klaudy\source\repos\GeometryLib\bin\Debug\GeometryLib.pdb
+C:\Users\Klaudy\source\repos\GeometryLib\obj\Debug\GeometryLib.csproj.AssemblyReference.cache
+C:\Users\Klaudy\source\repos\GeometryLib\obj\Debug\GeometryLib.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\source\repos\GeometryLib\obj\Debug\GeometryLib.dll
+C:\Users\Klaudy\source\repos\GeometryLib\obj\Debug\GeometryLib.pdb
+C:\Users\Klaudy\Desktop\VS\GeometryLib\bin\Debug\GeometryLib.dll
+C:\Users\Klaudy\Desktop\VS\GeometryLib\bin\Debug\GeometryLib.pdb
+C:\Users\Klaudy\Desktop\VS\GeometryLib\obj\Debug\GeometryLib.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\VS\GeometryLib\obj\Debug\GeometryLib.dll
+C:\Users\Klaudy\Desktop\VS\GeometryLib\obj\Debug\GeometryLib.pdb
+>>>>>>> 97c56c56403eff14dd9de3eaf411b8880a369099
