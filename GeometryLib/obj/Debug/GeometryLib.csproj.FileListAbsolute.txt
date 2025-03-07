@@ -1,0 +1,5 @@
+C:\Users\Klaudy\Desktop\пр4\GeometryLib\bin\Debug\GeometryLib.dll
+C:\Users\Klaudy\Desktop\пр4\GeometryLib\bin\Debug\GeometryLib.pdb
+C:\Users\Klaudy\Desktop\пр4\GeometryLib\obj\Debug\GeometryLib.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\пр4\GeometryLib\obj\Debug\GeometryLib.dll
+C:\Users\Klaudy\Desktop\пр4\GeometryLib\obj\Debug\GeometryLib.pdb
